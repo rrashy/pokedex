@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="Label_heigh">Height</string>
+    <string name="Label_weigth">Weight</string>
+    <string name="Label_grass">Grass</string>
+    <string name="Label_poison">Poison</string>
+    <string name="Label_psycho">Psycho</string>
+    <string name="Label_ice">Ice</string>
+    <string name="Label_flying">Flying</string>
+    <string name="Label_fire">Fire</string>
+    <string name="pokemon_name">Bulbasaur #001</string>
+</resources>
